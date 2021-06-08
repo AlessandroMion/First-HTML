@@ -1,0 +1,16 @@
+body {
+  font-family: "tahoma";
+  color: midnightblue;
+  background-color: honeydew
+}
+
+h1 {
+  color: darkred;
+  text-align: center;
+  font-size: 3em
+}
+
+h2 {
+  color: indianred;
+  text-align: left
+}
